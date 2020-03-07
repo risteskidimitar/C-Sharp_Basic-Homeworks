@@ -9,14 +9,3 @@ D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework02CSharp\Homework02CSharp\obj\D
 D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework02CSharp\Homework02CSharp\obj\Debug\netcoreapp3.1\Homework02CSharp.AssemblyInfo.cs
 D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework02CSharp\Homework02CSharp\obj\Debug\netcoreapp3.1\Homework02CSharp.dll
 D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework02CSharp\Homework02CSharp\obj\Debug\netcoreapp3.1\Homework02CSharp.pdb
-C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework02CSharp\Homework02CSharp\bin\Debug\netcoreapp3.1\Homework02CSharp.exe
-C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework02CSharp\Homework02CSharp\bin\Debug\netcoreapp3.1\Homework02CSharp.deps.json
-C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework02CSharp\Homework02CSharp\bin\Debug\netcoreapp3.1\Homework02CSharp.runtimeconfig.json
-C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework02CSharp\Homework02CSharp\bin\Debug\netcoreapp3.1\Homework02CSharp.runtimeconfig.dev.json
-C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework02CSharp\Homework02CSharp\bin\Debug\netcoreapp3.1\Homework02CSharp.dll
-C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework02CSharp\Homework02CSharp\bin\Debug\netcoreapp3.1\Homework02CSharp.pdb
-C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework02CSharp\Homework02CSharp\obj\Debug\netcoreapp3.1\Homework02CSharp.csprojAssemblyReference.cache
-C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework02CSharp\Homework02CSharp\obj\Debug\netcoreapp3.1\Homework02CSharp.AssemblyInfoInputs.cache
-C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework02CSharp\Homework02CSharp\obj\Debug\netcoreapp3.1\Homework02CSharp.AssemblyInfo.cs
-C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework02CSharp\Homework02CSharp\obj\Debug\netcoreapp3.1\Homework02CSharp.dll
-C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework02CSharp\Homework02CSharp\obj\Debug\netcoreapp3.1\Homework02CSharp.pdb
