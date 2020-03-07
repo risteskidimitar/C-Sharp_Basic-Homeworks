@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework02CSharp\\Homework02CSharp\\Homework02CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\Homework02CSharp\\Homework02CSharp\\Homework02CSharp.csproj",
       "projectName": "Homework02CSharp",
-      "projectPath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework02CSharp\\Homework02CSharp\\Homework02CSharp.csproj",
+      "projectPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\Homework02CSharp\\Homework02CSharp\\Homework02CSharp.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework02CSharp\\Homework02CSharp\\obj\\",
+      "outputPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\Homework02CSharp\\Homework02CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",

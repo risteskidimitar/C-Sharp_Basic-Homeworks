@@ -40,7 +40,7 @@ namespace Homework02CSharp
             //Exercise 04 (* BONUS)
 
             Console.WriteLine("Enter your number:");
-            var input = Console.ReadLine();
+            string input = Console.ReadLine();
 
             int parsedNumber;
             bool parsingSuccsess = int.TryParse(input, out parsedNumber);
