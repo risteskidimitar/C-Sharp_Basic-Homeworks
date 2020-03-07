@@ -10,6 +10,10 @@ namespace Homework02CSharp
 
             //Exercise 01:
 
+            string firstName = "Dimitar";
+            string lastName = "Risteski";
+            Console.WriteLine($"Hello {firstName}  {lastName}");
+
             string number01 = "9";
 
             string number02 = "3";
@@ -20,7 +24,7 @@ namespace Homework02CSharp
             // Exercise 02:    
 
             int number03 = 31;
-            string firstName = "Dimitar";
+            string name = "Dime";
             Console.WriteLine(number03 + " " + firstName);
             Console.ReadLine();
 
