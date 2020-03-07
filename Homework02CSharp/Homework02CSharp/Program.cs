@@ -45,7 +45,7 @@ namespace Homework02CSharp
             int parsedNumber;
             bool parsingSuccsess = int.TryParse(input, out parsedNumber);
 
-            if (parsingSuccsess == true)
+            if (parsingSuccsess)
             {
                 if (parsedNumber % 2 == 0)
                 {
