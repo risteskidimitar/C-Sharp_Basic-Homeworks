@@ -11,7 +11,7 @@ namespace Class03ExtraExercises
             //   1.Write a C# Sharp program to find the sum of first 10 natural numbers
             //    *Hint: The first 10 natural number are: 1 2 3 4 5 6 7 8 9 10
 
-      
+
             int sum = 0;
             for (int i = 1; i <= 10; i++)
             {
@@ -190,7 +190,6 @@ namespace Class03ExtraExercises
             string[] userNames = { "user1", "user2", "user3" };
             string[] passwords = { "first", "second", "third" };
 
-            int index7;
             bool stop = false;
 
             while (true)
@@ -203,13 +202,9 @@ namespace Class03ExtraExercises
 
                 for (int i = 0; i < userNames.Length; i++)
                 {
-                    if (user == userNames[i])
+                    if (user == userNames[i] && passwords[i] == pass)
                     {
-                        index7 = i;
-                        if (passwords[index7] == pass)
-                        {
-                            stop = true;                         
-                        }                   
+                        stop = true;        
                     }
                 }
                 
@@ -223,11 +218,8 @@ namespace Class03ExtraExercises
                     Console.WriteLine("Incorrect username or password");
                 }
 
-
             }
             Console.ReadLine();
-
-
 
 
         }
