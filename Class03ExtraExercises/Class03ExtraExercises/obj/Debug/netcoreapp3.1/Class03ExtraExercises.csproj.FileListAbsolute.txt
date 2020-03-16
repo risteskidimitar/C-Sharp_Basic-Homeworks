@@ -1,0 +1,11 @@
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Class03ExtraExercises\Class03ExtraExercises\bin\Debug\netcoreapp3.1\Class03ExtraExercises.exe
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Class03ExtraExercises\Class03ExtraExercises\bin\Debug\netcoreapp3.1\Class03ExtraExercises.deps.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Class03ExtraExercises\Class03ExtraExercises\bin\Debug\netcoreapp3.1\Class03ExtraExercises.runtimeconfig.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Class03ExtraExercises\Class03ExtraExercises\bin\Debug\netcoreapp3.1\Class03ExtraExercises.runtimeconfig.dev.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Class03ExtraExercises\Class03ExtraExercises\bin\Debug\netcoreapp3.1\Class03ExtraExercises.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Class03ExtraExercises\Class03ExtraExercises\bin\Debug\netcoreapp3.1\Class03ExtraExercises.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Class03ExtraExercises\Class03ExtraExercises\obj\Debug\netcoreapp3.1\Class03ExtraExercises.csprojAssemblyReference.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Class03ExtraExercises\Class03ExtraExercises\obj\Debug\netcoreapp3.1\Class03ExtraExercises.AssemblyInfoInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Class03ExtraExercises\Class03ExtraExercises\obj\Debug\netcoreapp3.1\Class03ExtraExercises.AssemblyInfo.cs
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Class03ExtraExercises\Class03ExtraExercises\obj\Debug\netcoreapp3.1\Class03ExtraExercises.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Class03ExtraExercises\Class03ExtraExercises\obj\Debug\netcoreapp3.1\Class03ExtraExercises.pdb
