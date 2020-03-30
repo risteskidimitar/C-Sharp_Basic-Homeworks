@@ -1,0 +1,13 @@
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\bin\Debug\netcoreapp3.1\Homework05CSharp.exe
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\bin\Debug\netcoreapp3.1\Homework05CSharp.deps.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\bin\Debug\netcoreapp3.1\Homework05CSharp.runtimeconfig.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\bin\Debug\netcoreapp3.1\Homework05CSharp.runtimeconfig.dev.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\bin\Debug\netcoreapp3.1\Homework05CSharp.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\bin\Debug\netcoreapp3.1\Homework05CSharp.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.csprojAssemblyReference.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.csproj.CoreCompileInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.AssemblyInfoInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.AssemblyInfo.cs
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.genruntimeconfig.cache

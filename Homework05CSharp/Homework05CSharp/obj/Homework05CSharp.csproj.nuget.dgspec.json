@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework Class 5\\Homework Class 5.csproj": {}
+    "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework05CSharp\\Homework05CSharp\\Homework05CSharp.csproj": {}
   },
   "projects": {
-    "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework Class 5\\Homework Class 5.csproj": {
+    "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework05CSharp\\Homework05CSharp\\Homework05CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework Class 5\\Homework Class 5.csproj",
-        "projectName": "Homework Class 5",
-        "projectPath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework Class 5\\Homework Class 5.csproj",
+        "projectUniqueName": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework05CSharp\\Homework05CSharp\\Homework05CSharp.csproj",
+        "projectName": "Homework05CSharp",
+        "projectPath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework05CSharp\\Homework05CSharp\\Homework05CSharp.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework Class 5\\obj\\",
+        "outputPath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\Homework05CSharp\\Homework05CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
