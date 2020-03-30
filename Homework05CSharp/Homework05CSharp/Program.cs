@@ -42,7 +42,7 @@ namespace Homework_Class_5
 
         public void GetPersonStats()
         {
-            Console.WriteLine($"Full name: {FirstName} {LastName}, with age of {Age}.");
+            Console.WriteLine($"Full name: {FirstName} {LastName}, at age of {Age}.");
         }
 
     }
