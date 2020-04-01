@@ -11,3 +11,16 @@ D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\obj\D
 D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.dll
 D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.pdb
 D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.genruntimeconfig.cache
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\bin\Debug\netcoreapp3.1\Homework05CSharp.exe
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\bin\Debug\netcoreapp3.1\Homework05CSharp.deps.json
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\bin\Debug\netcoreapp3.1\Homework05CSharp.runtimeconfig.json
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\bin\Debug\netcoreapp3.1\Homework05CSharp.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\bin\Debug\netcoreapp3.1\Homework05CSharp.dll
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\bin\Debug\netcoreapp3.1\Homework05CSharp.pdb
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.AssemblyInfo.cs
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.dll
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.pdb
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\Homework05CSharp\Homework05CSharp\obj\Debug\netcoreapp3.1\Homework05CSharp.genruntimeconfig.cache

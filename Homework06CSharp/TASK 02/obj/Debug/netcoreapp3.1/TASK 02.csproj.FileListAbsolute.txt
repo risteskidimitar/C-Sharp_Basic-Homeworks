@@ -1,0 +1,13 @@
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\bin\Debug\netcoreapp3.1\TASK 02.exe
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\bin\Debug\netcoreapp3.1\TASK 02.deps.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\bin\Debug\netcoreapp3.1\TASK 02.runtimeconfig.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\bin\Debug\netcoreapp3.1\TASK 02.runtimeconfig.dev.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\bin\Debug\netcoreapp3.1\TASK 02.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\bin\Debug\netcoreapp3.1\TASK 02.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\obj\Debug\netcoreapp3.1\TASK 02.csprojAssemblyReference.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\obj\Debug\netcoreapp3.1\TASK 02.csproj.CoreCompileInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\obj\Debug\netcoreapp3.1\TASK 02.AssemblyInfoInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\obj\Debug\netcoreapp3.1\TASK 02.AssemblyInfo.cs
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\obj\Debug\netcoreapp3.1\TASK 02.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\obj\Debug\netcoreapp3.1\TASK 02.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework06CSharp\TASK 02\obj\Debug\netcoreapp3.1\TASK 02.genruntimeconfig.cache
