@@ -1,0 +1,15 @@
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp2.2\AcademyApp.deps.json
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp2.2\AcademyApp.runtimeconfig.json
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp2.2\AcademyApp.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp2.2\AcademyApp.dll
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp2.2\AcademyApp.pdb
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp2.2\SubjectServices.dll
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\bin\Debug\netcoreapp2.2\SubjectServices.pdb
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.AssemblyInfo.cs
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.csproj.CopyComplete
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.dll
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.pdb
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.genruntimeconfig.cache

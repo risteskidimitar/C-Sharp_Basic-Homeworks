@@ -1,0 +1,13 @@
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.exe
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.deps.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.runtimeconfig.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.runtimeconfig.dev.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.csprojAssemblyReference.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.csproj.CoreCompileInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.AssemblyInfoInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.AssemblyInfo.cs
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\Homework07CSharp part2\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.genruntimeconfig.cache

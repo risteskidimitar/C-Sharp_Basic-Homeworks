@@ -1,0 +1,9 @@
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.deps.json
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.dll
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.pdb
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.AssemblyInfo.cs
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.dll
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class7FullStructure\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.pdb
