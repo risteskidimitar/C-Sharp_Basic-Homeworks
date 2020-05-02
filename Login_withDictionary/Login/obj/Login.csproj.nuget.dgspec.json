@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\Homework08CSharp\\Homework08CSharp\\Homework08CSharp.csproj": {}
+    "C:\\Users\\dimit\\Desktop\\Login\\Login_withDictionary\\Login\\Login.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\Homework08CSharp\\Homework08CSharp\\Homework08CSharp.csproj": {
+    "C:\\Users\\dimit\\Desktop\\Login\\Login_withDictionary\\Login\\Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\Homework08CSharp\\Homework08CSharp\\Homework08CSharp.csproj",
-        "projectName": "Homework08CSharp",
-        "projectPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\Homework08CSharp\\Homework08CSharp\\Homework08CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\Login\\Login_withDictionary\\Login\\Login.csproj",
+        "projectName": "Login",
+        "projectPath": "C:\\Users\\dimit\\Desktop\\Login\\Login_withDictionary\\Login\\Login.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\Homework08CSharp\\Homework08CSharp\\obj\\",
+        "outputPath": "C:\\Users\\dimit\\Desktop\\Login\\Login_withDictionary\\Login\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

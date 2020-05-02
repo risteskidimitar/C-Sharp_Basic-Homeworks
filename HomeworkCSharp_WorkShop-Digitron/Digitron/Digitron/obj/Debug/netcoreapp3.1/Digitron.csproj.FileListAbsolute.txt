@@ -1,0 +1,14 @@
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.exe
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.deps.json
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.runtimeconfig.json
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.dll
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.pdb
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.AssemblyInfo.cs
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csproj.CopyComplete
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.dll
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.pdb
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class11-WorkShop\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.genruntimeconfig.cache

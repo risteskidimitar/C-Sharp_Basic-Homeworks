@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\Homework08CSharp\\Homework08CSharp\\Homework08CSharp.csproj",
-      "projectName": "Homework08CSharp",
-      "projectPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\Homework08CSharp\\Homework08CSharp\\Homework08CSharp.csproj",
+      "projectUniqueName": "C:\\Users\\dimit\\Desktop\\skwd8-05-oopcsharp-master\\g1\\Class11-WorkShop\\Digitron\\Digitron\\Digitron.csproj",
+      "projectName": "Digitron",
+      "projectPath": "C:\\Users\\dimit\\Desktop\\skwd8-05-oopcsharp-master\\g1\\Class11-WorkShop\\Digitron\\Digitron\\Digitron.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\Homework08CSharp\\Homework08CSharp\\obj\\",
+      "outputPath": "C:\\Users\\dimit\\Desktop\\skwd8-05-oopcsharp-master\\g1\\Class11-WorkShop\\Digitron\\Digitron\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
