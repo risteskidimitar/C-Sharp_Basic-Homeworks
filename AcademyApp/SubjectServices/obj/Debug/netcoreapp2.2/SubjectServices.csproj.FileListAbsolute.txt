@@ -1,0 +1,26 @@
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class8 - Inheritance\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.deps.json
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class8 - Inheritance\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.dll
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class8 - Inheritance\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.pdb
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class8 - Inheritance\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class8 - Inheritance\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class8 - Inheritance\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class8 - Inheritance\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.AssemblyInfo.cs
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class8 - Inheritance\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.dll
+C:\Users\dimit\Desktop\skwd8-05-oopcsharp-master\g1\Class8 - Inheritance\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.pdb
+C:\Users\dimit\Desktop\AcademyApp\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.deps.json
+C:\Users\dimit\Desktop\AcademyApp\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.dll
+C:\Users\dimit\Desktop\AcademyApp\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.pdb
+C:\Users\dimit\Desktop\AcademyApp\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\AcademyApp\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\AcademyApp\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.AssemblyInfo.cs
+C:\Users\dimit\Desktop\AcademyApp\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.dll
+C:\Users\dimit\Desktop\AcademyApp\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\AcademyApp\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.deps.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\AcademyApp\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\AcademyApp\SubjectServices\bin\Debug\netcoreapp2.2\SubjectServices.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\AcademyApp\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.csprojAssemblyReference.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\AcademyApp\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.csproj.CoreCompileInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\AcademyApp\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.AssemblyInfoInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\AcademyApp\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.AssemblyInfo.cs
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\AcademyApp\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\AcademyApp\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.pdb
