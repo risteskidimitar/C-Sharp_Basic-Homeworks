@@ -83,12 +83,13 @@ namespace LINQApp
 
             var descDurationLambda = movies.OrderByDescending(d => d.Duration).Select(m => new { m.Title, m.Rating }).ToList();
 
-            descDurationLambda.ForEach(m => Console.WriteLine(m));
 
-
-            var descDurationQuery = (from movie in movies select movie).OrderByDescending(d => d.Duration)
+            var descDurationQuery = (from movie in movies orderby movie.Duration descending select movie)
                                 .Select(m => new { m.Title, m.Rating }).ToList();
 
+
+            descDurationQuery.ForEach(m => Console.WriteLine(m));
+   
 
             // 8 Find all movies with TITLES that don't start with A and TITLES include more than 7 characters
 
@@ -114,7 +115,7 @@ namespace LINQApp
 
             ratingsQuery.ForEach(m => Console.WriteLine(m));
 
-            // Find all movies TITLES and RATINGS that have TITLES with less than 10 characters, DURATION
+            // 10 Find all movies TITLES and RATINGS that have TITLES with less than 10 characters, DURATION
             //longer than 2 hours, RATING higher then 6.7 and order them by TITLE(ASC)
 
             var lastCondition = movies.Where(m => m.Title.Length < 10 && m.Duration > 120 && m.Rating > 6.7f)
@@ -123,12 +124,11 @@ namespace LINQApp
 
             var lastConditionQuery = (from m in movies
                                       where m.Title.Length < 10 && m.Duration > 120 && m.Rating > 6.7f 
-                                      select m)
-                                     .OrderBy(t => t.Title)
+                                      orderby m.Title select m)
                                      .Select(m => new { Title = m.Title, Rating = m.Rating }).ToList();
 
             Console.ForegroundColor = ConsoleColor.DarkGreen;
-            lastCondition.ForEach(m => Console.WriteLine(m));
+            lastConditionQuery.ForEach(m => Console.WriteLine(m));
 
 
             #endregion
