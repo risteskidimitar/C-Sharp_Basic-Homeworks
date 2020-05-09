@@ -33,3 +33,15 @@ D:\SEDC_19\Sessions\05_C#_Basic\Homework\HomeworkCSharpLINQ\LINQApp\obj\Debug\ne
 D:\SEDC_19\Sessions\05_C#_Basic\Homework\HomeworkCSharpLINQ\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.dll
 D:\SEDC_19\Sessions\05_C#_Basic\Homework\HomeworkCSharpLINQ\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.pdb
 D:\SEDC_19\Sessions\05_C#_Basic\Homework\HomeworkCSharpLINQ\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.genruntimeconfig.cache
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\HomeworkCSharpLINQ\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.deps.json
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\HomeworkCSharpLINQ\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.runtimeconfig.json
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\HomeworkCSharpLINQ\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\HomeworkCSharpLINQ\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.dll
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\HomeworkCSharpLINQ\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.pdb
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\HomeworkCSharpLINQ\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\HomeworkCSharpLINQ\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\HomeworkCSharpLINQ\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\HomeworkCSharpLINQ\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.AssemblyInfo.cs
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\HomeworkCSharpLINQ\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.dll
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\HomeworkCSharpLINQ\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.pdb
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\HomeworkCSharpLINQ\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.genruntimeconfig.cache

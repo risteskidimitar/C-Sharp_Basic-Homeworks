@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\HomeworkCSharpLINQ\\LINQApp\\LINQApp.csproj",
+      "projectUniqueName": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\LINQApp.csproj",
       "projectName": "LINQApp",
-      "projectPath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\HomeworkCSharpLINQ\\LINQApp\\LINQApp.csproj",
+      "projectPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\LINQApp.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\HomeworkCSharpLINQ\\LINQApp\\obj\\",
+      "outputPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

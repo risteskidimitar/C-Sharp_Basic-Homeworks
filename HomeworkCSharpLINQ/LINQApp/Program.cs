@@ -105,10 +105,10 @@ namespace LINQApp
 
             // 9 Find all movies RATINGS that have RATINGS higher than 7.2, DURATIONS less then 1hour and 50min
 
-            var ratingsLambda = movies.Where(m => m.Rating > 7.2f && m.Duration > 110).Select(m => m.Rating).ToList();
+            var ratingsLambda = movies.Where(m => m.Rating > 7.2f && m.Duration < 110).Select(m => m.Rating).ToList();
 
             var ratingsQuery = (from movie in movies
-                                where movie.Rating > 7.2f && movie.Duration > 110
+                                where movie.Rating > 7.2f && movie.Duration < 110
                                 select movie.Rating).ToList();
 
             
