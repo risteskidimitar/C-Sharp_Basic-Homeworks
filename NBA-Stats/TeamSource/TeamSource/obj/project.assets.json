@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj",
+      "projectUniqueName": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj",
       "projectName": "TeamSource",
-      "projectPath": "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj",
+      "projectPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\TeamSource\\obj\\",
+      "outputPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\TeamSource\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

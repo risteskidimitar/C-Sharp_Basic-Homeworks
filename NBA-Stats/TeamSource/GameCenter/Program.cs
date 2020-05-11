@@ -91,8 +91,8 @@ namespace GameCenter
             // Find all players with PtsPerGame > 20
 
             var PlayersOver20pts = allPlayers2.Where(player => player.PlayerStatistic["PtsPerGame"] > 20.0f)
-                                                .Select(player => player).ToList();
-           //PlayersOver20pts.ForEach(player => Console.WriteLine(player.FullName));
+                                                .ToList();
+            //PlayersOver20pts.ForEach(player => Console.WriteLine(player.FullName));
 
             // Find all players NAMES older then 30 years
 

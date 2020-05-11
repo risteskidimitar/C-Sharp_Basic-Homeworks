@@ -14,3 +14,12 @@ C:\Users\dimit\Desktop\NBA-Stats\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\T
 C:\Users\dimit\Desktop\NBA-Stats\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfo.cs
 C:\Users\dimit\Desktop\NBA-Stats\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.dll
 C:\Users\dimit\Desktop\NBA-Stats\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\NBA-Stats\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.deps.json
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\NBA-Stats\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\NBA-Stats\TeamSource\TeamSource\bin\Debug\netcoreapp3.1\TeamSource.pdb
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\NBA-Stats\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\NBA-Stats\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\NBA-Stats\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\NBA-Stats\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.AssemblyInfo.cs
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\NBA-Stats\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.dll
+C:\Users\dimit\Desktop\C#hw\CSharp_Basic-Homework\NBA-Stats\TeamSource\TeamSource\obj\Debug\netcoreapp3.1\TeamSource.pdb

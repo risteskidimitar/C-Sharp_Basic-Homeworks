@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\GameCenter\\GameCenter.csproj": {}
+    "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\GameCenter\\GameCenter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\GameCenter\\GameCenter.csproj": {
+    "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\GameCenter\\GameCenter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\GameCenter\\GameCenter.csproj",
+        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\GameCenter\\GameCenter.csproj",
         "projectName": "GameCenter",
-        "projectPath": "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\GameCenter\\GameCenter.csproj",
+        "projectPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\GameCenter\\GameCenter.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\GameCenter\\obj\\",
+        "outputPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\GameCenter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj": {
-                "projectPath": "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj"
+              "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj": {
+                "projectPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj": {
+    "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj",
+        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj",
         "projectName": "TeamSource",
-        "projectPath": "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj",
+        "projectPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\TeamSource\\TeamSource.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\Desktop\\NBA-Stats\\TeamSource\\TeamSource\\obj\\",
+        "outputPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\NBA-Stats\\TeamSource\\TeamSource\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
