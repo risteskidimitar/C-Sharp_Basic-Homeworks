@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+LIr6FXmxQmZwpETBbzAHBfS0lT4TYrPohQ9ypX1nmKCucmeXI5AS/i6B9vHi2nzo5YV+kUkCUp8W5S7aTmerQ==",
+  "dgSpecHash": "GUZu+LC5T2RySKWLRGjZ5e3kSJSmELw6WilTv7p4+n9tcazHL6mwduRbrbXiEM4Uvfi+9kkTXz7iWuzdd7pUlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dimit\\Desktop\\Class15\\ExceptionHandling\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\ExceptionHandling\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

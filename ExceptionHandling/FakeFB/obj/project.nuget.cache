@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TgS7ZZG0lZVgP2C8JWhSryXWTK1MLKvhSV0aL8Ovg49zr625R60NCjp+AYF4WEKCcW/PTlCLHz0noFepzHiXXA==",
+  "dgSpecHash": "xVSQR4UUzH+5EFvz1xIDQdnDXeWw27Xg1JSskFxW4SKaJwlH5fGC9QmMTy4I0fRQJpvZm7IvJpObU38H8C5xMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dimit\\Desktop\\Class15\\ExceptionHandling\\FakeFB\\FakeFB.csproj",
+  "projectFilePath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\ExceptionHandling\\FakeFB\\FakeFB.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

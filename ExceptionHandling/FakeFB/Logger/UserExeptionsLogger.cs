@@ -7,7 +7,7 @@ namespace FakeFB.Logger
 {
     public class UserExceptionsLogger
     {
-        private string FilePath { get; set; } = @"C:\Users\dimit\Desktop\Class15\ExceptionHandling\UserExpetionLogger.txt";
+        private string FilePath { get; set; } = @"D:\SEDC_19\Sessions\05_C#_Basic\Homework\ExceptionHandling\UserExceptionLogger.txt";
         public void LogExeption(Exception ex)
         {
             StreamWriter sw = new StreamWriter(FilePath);

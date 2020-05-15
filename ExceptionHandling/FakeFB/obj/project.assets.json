@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimit\\Desktop\\Class15\\ExceptionHandling\\FakeFB\\FakeFB.csproj",
+      "projectUniqueName": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\ExceptionHandling\\FakeFB\\FakeFB.csproj",
       "projectName": "FakeFB",
-      "projectPath": "C:\\Users\\dimit\\Desktop\\Class15\\ExceptionHandling\\FakeFB\\FakeFB.csproj",
+      "projectPath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\ExceptionHandling\\FakeFB\\FakeFB.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimit\\Desktop\\Class15\\ExceptionHandling\\FakeFB\\obj\\",
+      "outputPath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\ExceptionHandling\\FakeFB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,8 +56,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\dimit\\Desktop\\Class15\\ExceptionHandling\\WebApi\\WebApi.csproj": {
-              "projectPath": "C:\\Users\\dimit\\Desktop\\Class15\\ExceptionHandling\\WebApi\\WebApi.csproj"
+            "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\ExceptionHandling\\WebApi\\WebApi.csproj": {
+              "projectPath": "D:\\SEDC_19\\Sessions\\05_C#_Basic\\Homework\\ExceptionHandling\\WebApi\\WebApi.csproj"
             }
           }
         }

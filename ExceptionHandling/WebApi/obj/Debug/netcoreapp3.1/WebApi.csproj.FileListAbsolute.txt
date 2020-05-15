@@ -15,3 +15,11 @@ C:\Users\dimit\Desktop\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\
 C:\Users\dimit\Desktop\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
 C:\Users\dimit\Desktop\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
 C:\Users\dimit\Desktop\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Homework\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb

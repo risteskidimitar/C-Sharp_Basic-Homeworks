@@ -7,7 +7,7 @@ namespace FakeFB.Logger
 {
     public class AdminExceptionsLogger
     {
-        private string FilePath { get; set; } = @"C:\Users\dimit\Desktop\Class15\ExceptionHandling\AdminExeptionLogger.txt";
+        private string FilePath { get; set; } = @"D:\SEDC_19\Sessions\05_C#_Basic\Homework\ExceptionHandling\AdminExceptionLogger.txt";
 
         public void AdminLogExeption(Exception ex)
         {
