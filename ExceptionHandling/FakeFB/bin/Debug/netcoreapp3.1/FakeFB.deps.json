@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FakeFB/1.0.0": {
+        "dependencies": {
+          "WebApi": "1.0.0"
+        },
+        "runtime": {
+          "FakeFB.dll": {}
+        }
+      },
+      "WebApi/1.0.0": {
+        "runtime": {
+          "WebApi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FakeFB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

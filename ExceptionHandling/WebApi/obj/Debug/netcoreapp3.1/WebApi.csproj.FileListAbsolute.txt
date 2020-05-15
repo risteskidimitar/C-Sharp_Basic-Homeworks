@@ -1,0 +1,17 @@
+C:\Users\dimit\Desktop\Class15Prep\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\dimit\Desktop\Class15Prep\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\dimit\Desktop\Class15Prep\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\dimit\Desktop\Class15Prep\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\Class15Prep\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\Class15Prep\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\Class15Prep\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\dimit\Desktop\Class15Prep\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\dimit\Desktop\Class15Prep\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\dimit\Desktop\Class15\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\dimit\Desktop\Class15\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\dimit\Desktop\Class15\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\dimit\Desktop\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\dimit\Desktop\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\dimit\Desktop\Class15\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb

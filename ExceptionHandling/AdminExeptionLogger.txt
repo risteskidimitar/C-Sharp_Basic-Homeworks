@@ -1,0 +1,1 @@
+Exception  Exception of type 'System.Exception' was thrown.     at FakeFB.Program.Main(String[] args) in C:\Users\dimit\Desktop\Class15\ExceptionHandling\FakeFB\Program.cs:line 52
