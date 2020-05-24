@@ -1,0 +1,45 @@
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\bin\Debug\netcoreapp2.2\Lottary.deps.json
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\bin\Debug\netcoreapp2.2\Lottary.runtimeconfig.json
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\bin\Debug\netcoreapp2.2\Lottary.runtimeconfig.dev.json
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\bin\Debug\netcoreapp2.2\Lottary.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\bin\Debug\netcoreapp2.2\Lottary.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.csprojAssemblyReference.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.csproj.CoreCompileInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.AssemblyInfoInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.AssemblyInfo.cs
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.genruntimeconfig.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\bin\Debug\netcoreapp2.2\LottoServices.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\bin\Debug\netcoreapp2.2\LottoServices.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Loto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.csproj.CopyComplete
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\bin\Debug\netcoreapp2.2\Lottary.deps.json
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\bin\Debug\netcoreapp2.2\Lottary.runtimeconfig.json
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\bin\Debug\netcoreapp2.2\Lottary.runtimeconfig.dev.json
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\bin\Debug\netcoreapp2.2\Lottary.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\bin\Debug\netcoreapp2.2\Lottary.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\bin\Debug\netcoreapp2.2\LottoServices.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\bin\Debug\netcoreapp2.2\LottoServices.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.csprojAssemblyReference.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.csproj.CoreCompileInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.AssemblyInfoInputs.cache
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.AssemblyInfo.cs
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.csproj.CopyComplete
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.dll
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.pdb
+D:\SEDC_19\Sessions\05_C#_Basic\Class\Lotto\Lottary\Lottary\obj\Debug\netcoreapp2.2\Lottary.genruntimeconfig.cache
+C:\Users\dimit\Desktop\Lottary HW\Lottary\bin\Debug\netcoreapp2.2\Lottary.deps.json
+C:\Users\dimit\Desktop\Lottary HW\Lottary\bin\Debug\netcoreapp2.2\Lottary.runtimeconfig.json
+C:\Users\dimit\Desktop\Lottary HW\Lottary\bin\Debug\netcoreapp2.2\Lottary.runtimeconfig.dev.json
+C:\Users\dimit\Desktop\Lottary HW\Lottary\bin\Debug\netcoreapp2.2\Lottary.dll
+C:\Users\dimit\Desktop\Lottary HW\Lottary\bin\Debug\netcoreapp2.2\Lottary.pdb
+C:\Users\dimit\Desktop\Lottary HW\Lottary\bin\Debug\netcoreapp2.2\LottoServices.dll
+C:\Users\dimit\Desktop\Lottary HW\Lottary\bin\Debug\netcoreapp2.2\LottoServices.pdb
+C:\Users\dimit\Desktop\Lottary HW\Lottary\obj\Debug\netcoreapp2.2\Lottary.csprojAssemblyReference.cache
+C:\Users\dimit\Desktop\Lottary HW\Lottary\obj\Debug\netcoreapp2.2\Lottary.csproj.CoreCompileInputs.cache
+C:\Users\dimit\Desktop\Lottary HW\Lottary\obj\Debug\netcoreapp2.2\Lottary.AssemblyInfoInputs.cache
+C:\Users\dimit\Desktop\Lottary HW\Lottary\obj\Debug\netcoreapp2.2\Lottary.AssemblyInfo.cs
+C:\Users\dimit\Desktop\Lottary HW\Lottary\obj\Debug\netcoreapp2.2\Lottary.csproj.CopyComplete
+C:\Users\dimit\Desktop\Lottary HW\Lottary\obj\Debug\netcoreapp2.2\Lottary.dll
+C:\Users\dimit\Desktop\Lottary HW\Lottary\obj\Debug\netcoreapp2.2\Lottary.pdb
+C:\Users\dimit\Desktop\Lottary HW\Lottary\obj\Debug\netcoreapp2.2\Lottary.genruntimeconfig.cache
