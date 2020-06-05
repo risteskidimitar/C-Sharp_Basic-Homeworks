@@ -29,25 +29,22 @@ namespace QuizzApp
                         var username = Console.ReadLine();
                         Console.WriteLine("Enter your password");
                         var password = Console.ReadLine();
+                        var myStudent = listOfStudets.SingleOrDefault(s => s.Username == username);
 
-                        if (listOfStudets.SingleOrDefault(s => s.Username == username) == null
-                            || listOfStudets.SingleOrDefault(s => s.Username == username).Password != password)
+                        if (myStudent == null || myStudent.Password != password)
                         {
                             BadChoice++;
                             Console.WriteLine($"Incorrect username or password, you have {3 - BadChoice} more tries");
                         }
-                        else if ((listOfStudets.SingleOrDefault(s => s.Username == username).Password == password)
-                            && listOfStudets.SingleOrDefault(s => s.Username == username).Logged == false)
+                        else if (myStudent.Password == password && myStudent.Logged == false)
                         {
-                            listOfStudets.SingleOrDefault(s => s.Username == username).LoggChanger();
-                            Console.WriteLine($"Thanks for loggin student {username}");
+                            myStudent.LoggChanger();
+                            Console.WriteLine($"Thanks for loggin student {myStudent.Username}");
 
-                            listOfStudets.SingleOrDefault(s => s.Username == username).Grade = Quiz.startQuiz();
-
+                            myStudent.Grade = Quiz.startQuiz();
 
                         }
-                        else if ((listOfStudets.SingleOrDefault(s => s.Username == username).Password == password)
-                            && listOfStudets.SingleOrDefault(s => s.Username == username).Logged == true)
+                        else if (myStudent.Password == password && myStudent.Logged == true)
                         {
                             Console.WriteLine("You are already did the test");
                         }
@@ -60,19 +57,19 @@ namespace QuizzApp
                         username = Console.ReadLine();
                         Console.WriteLine("Enter your password");
                         password = Console.ReadLine();
+                        var myTeacher = listOfTeacher.SingleOrDefault(t => t.Username == username);
 
-                        if (listOfTeacher.SingleOrDefault(t => t.Username == username) == null
-                            || listOfTeacher.SingleOrDefault(t => t.Username == username).Password != password)
+                        if (myTeacher == null || myTeacher.Password != password)
                         {
                             BadChoice++;
                             Console.WriteLine($"Incorrect username or password, you have {3 - BadChoice} more tries");
 
                         }
-                        else if (listOfTeacher.SingleOrDefault(t => t.Username == username).Password == password)
+                        else if (myTeacher.Password == password)
                         {
                             Console.WriteLine($"Thanks for loggin teacher {username}");
 
-                            listOfTeacher.SingleOrDefault(t => t.Username == username).PrintStudents(listOfStudets);
+                            myTeacher.PrintStudents(listOfStudets);
                             Console.ReadLine();
                         }
                         break;

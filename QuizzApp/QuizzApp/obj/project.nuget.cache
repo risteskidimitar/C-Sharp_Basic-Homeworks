@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4xCHqUvmniJwr2Ic3v5RSL8H04MPsD9edfvDyF3Oo3GO2xMudSlujCZ9T32zRZAQX9KAdxYIihpvqNCe4a2Yow==",
+  "dgSpecHash": "i0d0kuqnkW1Hwd49XtueeXcUN7/WmCFHxJIupK41AsmEy+Bv1Z0wOP7zReZQEEPbyp2Xf18PfVN7MQ1JM2y9qA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dimit\\source\\repos\\QuizzApp\\QuizzApp\\QuizzApp.csproj",
+  "projectFilePath": "D:\\SEDC_19\\06_C#_Advanced\\QuizzApp\\QuizzApp\\QuizzApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dimit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

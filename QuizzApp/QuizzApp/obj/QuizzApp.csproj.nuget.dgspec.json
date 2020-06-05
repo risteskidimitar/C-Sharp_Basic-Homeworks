@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\source\\repos\\QuizzApp\\QuizzApp\\QuizzApp.csproj": {}
+    "D:\\SEDC_19\\06_C#_Advanced\\QuizzApp\\QuizzApp\\QuizzApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\source\\repos\\QuizzApp\\QuizzApp\\QuizzApp.csproj": {
+    "D:\\SEDC_19\\06_C#_Advanced\\QuizzApp\\QuizzApp\\QuizzApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\source\\repos\\QuizzApp\\QuizzApp\\QuizzApp.csproj",
+        "projectUniqueName": "D:\\SEDC_19\\06_C#_Advanced\\QuizzApp\\QuizzApp\\QuizzApp.csproj",
         "projectName": "QuizzApp",
-        "projectPath": "C:\\Users\\dimit\\source\\repos\\QuizzApp\\QuizzApp\\QuizzApp.csproj",
+        "projectPath": "D:\\SEDC_19\\06_C#_Advanced\\QuizzApp\\QuizzApp\\QuizzApp.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\source\\repos\\QuizzApp\\QuizzApp\\obj\\",
+        "outputPath": "D:\\SEDC_19\\06_C#_Advanced\\QuizzApp\\QuizzApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
