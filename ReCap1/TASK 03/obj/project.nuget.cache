@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hQNKVRhULi3vSKbbx6d856x4VbefwCHLUOMMgNae5Jx1/zheDRIXPxC9HCwd7SnyDSh9+7JMWDngmqjv0KBH4w==",
+  "dgSpecHash": "C1VJo4MealFVhkUqFP3MOmnezHZSX2ubP4NtK+YGilN/5l/ulRurvUSn/bNTyszMwN7HP/vpaYRwyVtSSGQ/ng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dimit\\Desktop\\Class01\\TASK 03\\TASK 03.csproj",
+  "projectFilePath": "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\ReCap1\\TASK 03\\TASK 03.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dimit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],

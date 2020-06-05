@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\Desktop\\Class01\\TASK 01\\TASK 01.csproj": {}
+    "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\ReCap1\\TASK 01\\TASK 01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\Desktop\\Class01\\TASK 01\\TASK 01.csproj": {
+    "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\ReCap1\\TASK 01\\TASK 01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\Class01\\TASK 01\\TASK 01.csproj",
+        "projectUniqueName": "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\ReCap1\\TASK 01\\TASK 01.csproj",
         "projectName": "TASK 01",
-        "projectPath": "C:\\Users\\dimit\\Desktop\\Class01\\TASK 01\\TASK 01.csproj",
+        "projectPath": "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\ReCap1\\TASK 01\\TASK 01.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\Desktop\\Class01\\TASK 01\\obj\\",
+        "outputPath": "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\ReCap1\\TASK 01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

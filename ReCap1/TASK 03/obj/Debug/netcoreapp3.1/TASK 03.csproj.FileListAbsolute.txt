@@ -23,3 +23,16 @@ C:\Users\dimit\Desktop\Class01\TASK 03\bin\Debug\netcoreapp3.1\TASK 03.pdb
 C:\Users\dimit\Desktop\Class01\TASK 03\obj\Debug\netcoreapp3.1\TASK 03.dll
 C:\Users\dimit\Desktop\Class01\TASK 03\obj\Debug\netcoreapp3.1\TASK 03.pdb
 C:\Users\dimit\Desktop\Class01\TASK 03\obj\Debug\netcoreapp3.1\TASK 03.genruntimeconfig.cache
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\bin\Debug\netcoreapp3.1\TASK 03.exe
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\bin\Debug\netcoreapp3.1\TASK 03.deps.json
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\bin\Debug\netcoreapp3.1\TASK 03.runtimeconfig.json
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\bin\Debug\netcoreapp3.1\TASK 03.runtimeconfig.dev.json
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\bin\Debug\netcoreapp3.1\TASK 03.dll
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\bin\Debug\netcoreapp3.1\TASK 03.pdb
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\obj\Debug\netcoreapp3.1\TASK 03.csprojAssemblyReference.cache
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\obj\Debug\netcoreapp3.1\TASK 03.AssemblyInfoInputs.cache
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\obj\Debug\netcoreapp3.1\TASK 03.AssemblyInfo.cs
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\obj\Debug\netcoreapp3.1\TASK 03.csproj.CoreCompileInputs.cache
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\obj\Debug\netcoreapp3.1\TASK 03.dll
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\obj\Debug\netcoreapp3.1\TASK 03.pdb
+D:\SEDC_19\05_C#_Basic\C#hw\CSharp_Basic-Homework\ReCap1\TASK 03\obj\Debug\netcoreapp3.1\TASK 03.genruntimeconfig.cache

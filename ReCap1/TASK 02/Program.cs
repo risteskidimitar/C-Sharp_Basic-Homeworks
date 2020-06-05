@@ -9,18 +9,19 @@ namespace TASK_02
         {
             while (true)
             {
-                Console.WriteLine("Please enter a day");
-                var inputedDay = int.Parse(Console.ReadLine());
-
-                Console.WriteLine("Please enter a month");
-                var inputedMonth = int.Parse(Console.ReadLine());
-
-                var inputDate = $"{inputedDay}.{inputedMonth}";
-                string[] holidays = { "1.1", "7.1", "20.4", "1.5", "25.5", "2.8", "8.9", "12.10", "23.10", "8.12" };
 
 
                 try
                 {
+                    Console.WriteLine("Please enter a day");
+                    var inputedDay = int.Parse(Console.ReadLine());
+
+                    Console.WriteLine("Please enter a month");
+                    var inputedMonth = int.Parse(Console.ReadLine());
+
+                    var inputDate = $"{inputedDay}.{inputedMonth}";
+                    string[] holidays = { "1.1", "7.1", "20.4", "1.5", "25.5", "2.8", "8.9", "12.10", "23.10", "8.12" };
+
                     DateTime convertDayToString = new DateTime(2020, inputedMonth, inputedDay); 
                     var day = convertDayToString.ToString("dddd");
                     Console.WriteLine($"The day is {day}");
