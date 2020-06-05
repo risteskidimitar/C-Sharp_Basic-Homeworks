@@ -1,0 +1,12 @@
+C:\Users\dimit\source\repos\QuizzApp\QuizzApp\bin\Debug\netcoreapp3.1\QuizzApp.exe
+C:\Users\dimit\source\repos\QuizzApp\QuizzApp\bin\Debug\netcoreapp3.1\QuizzApp.deps.json
+C:\Users\dimit\source\repos\QuizzApp\QuizzApp\bin\Debug\netcoreapp3.1\QuizzApp.runtimeconfig.json
+C:\Users\dimit\source\repos\QuizzApp\QuizzApp\bin\Debug\netcoreapp3.1\QuizzApp.runtimeconfig.dev.json
+C:\Users\dimit\source\repos\QuizzApp\QuizzApp\bin\Debug\netcoreapp3.1\QuizzApp.dll
+C:\Users\dimit\source\repos\QuizzApp\QuizzApp\bin\Debug\netcoreapp3.1\QuizzApp.pdb
+C:\Users\dimit\source\repos\QuizzApp\QuizzApp\obj\Debug\netcoreapp3.1\QuizzApp.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\QuizzApp\QuizzApp\obj\Debug\netcoreapp3.1\QuizzApp.AssemblyInfo.cs
+C:\Users\dimit\source\repos\QuizzApp\QuizzApp\obj\Debug\netcoreapp3.1\QuizzApp.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\QuizzApp\QuizzApp\obj\Debug\netcoreapp3.1\QuizzApp.dll
+C:\Users\dimit\source\repos\QuizzApp\QuizzApp\obj\Debug\netcoreapp3.1\QuizzApp.pdb
+C:\Users\dimit\source\repos\QuizzApp\QuizzApp\obj\Debug\netcoreapp3.1\QuizzApp.genruntimeconfig.cache
