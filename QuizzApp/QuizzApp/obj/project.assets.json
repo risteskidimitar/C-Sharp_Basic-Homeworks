@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SEDC_19\\06_C#_Advanced\\QuizzApp\\QuizzApp\\QuizzApp.csproj",
+      "projectUniqueName": "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\QuizzApp\\QuizzApp\\QuizzApp.csproj",
       "projectName": "QuizzApp",
-      "projectPath": "D:\\SEDC_19\\06_C#_Advanced\\QuizzApp\\QuizzApp\\QuizzApp.csproj",
+      "projectPath": "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\QuizzApp\\QuizzApp\\QuizzApp.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\SEDC_19\\06_C#_Advanced\\QuizzApp\\QuizzApp\\obj\\",
+      "outputPath": "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\QuizzApp\\QuizzApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

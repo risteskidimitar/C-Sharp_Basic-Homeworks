@@ -67,7 +67,7 @@ namespace QuizzApp
                         }
                         else if (myTeacher.Password == password)
                         {
-                            Console.WriteLine($"Thanks for loggin teacher {username}");
+                            Console.WriteLine($"Thanks for loggin teacher {myTeacher.Username}");
 
                             myTeacher.PrintStudents(listOfStudets);
                             Console.ReadLine();
