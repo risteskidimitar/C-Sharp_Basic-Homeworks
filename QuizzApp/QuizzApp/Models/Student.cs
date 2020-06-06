@@ -6,7 +6,8 @@ namespace QuizzApp.Models
 {
     public class Student : User
     {
-        public int Grade;
+
+        public int Grade { get; set; }
         public bool Logged = false;
         public bool LoggChanger()
         {

@@ -7,7 +7,6 @@ namespace QuizzApp.Models
 {
     public class Teacher: User
     {
-
         public void PrintStudents(List<Student> someList)
         {
             foreach (var student in someList)

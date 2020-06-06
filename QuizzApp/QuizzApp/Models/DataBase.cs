@@ -14,6 +14,7 @@ namespace QuizzApp.Models
                 {
                     Username = "dimitar",
                     Password = "risteski",
+                    
                 },
                 new Student()
                 {

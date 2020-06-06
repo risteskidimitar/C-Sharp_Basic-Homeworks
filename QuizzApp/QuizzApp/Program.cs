@@ -39,7 +39,7 @@ namespace QuizzApp
                         else if (myStudent.Password == password && myStudent.Logged == false)
                         {
                             myStudent.LoggChanger();
-                            Console.WriteLine($"Thanks for loggin student {myStudent.Username}");
+                            Console.WriteLine($"Thanks for loggin student {myStudent.Username} with ID: {myStudent.GetId()}");
 
                             myStudent.Grade = Quiz.startQuiz();
 
@@ -67,7 +67,7 @@ namespace QuizzApp
                         }
                         else if (myTeacher.Password == password)
                         {
-                            Console.WriteLine($"Thanks for loggin teacher {myTeacher.Username}");
+                            Console.WriteLine($"Thanks for loggin teacher {myTeacher.Username} with ID: {myTeacher.GetId()}");
 
                             myTeacher.PrintStudents(listOfStudets);
                             Console.ReadLine();
