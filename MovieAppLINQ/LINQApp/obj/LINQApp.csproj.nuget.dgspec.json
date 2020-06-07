@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\LINQApp.csproj": {}
+    "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\LINQApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\LINQApp.csproj": {
+    "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\LINQApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\LINQApp.csproj",
+        "projectUniqueName": "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\LINQApp.csproj",
         "projectName": "LINQApp",
-        "projectPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\LINQApp.csproj",
+        "projectPath": "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\LINQApp.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\Desktop\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\obj\\",
+        "outputPath": "D:\\SEDC_19\\05_C#_Basic\\C#hw\\CSharp_Basic-Homework\\HomeworkCSharpLINQ\\LINQApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
